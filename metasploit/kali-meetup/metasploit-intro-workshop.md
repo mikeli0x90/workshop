@@ -1,16 +1,6 @@
 # ![Markdown Here logo](http://sectools.org/logos/metasploit-39x49.png) Metasploit 101 Workshop
-
 [**Visit Metasploit.**](http://www.meetup.com/Boston-Kali-Linux-Users/events/234976458/) 
-
 [**Get Metasploit.**](https://github.com/rapid7/metasploit-framework)
-
-
-[**Get Kali.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)  
-[**Get Ubuntu.**](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)  
-[**Get Windows.**](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz) 
-
-
-
 
 
 ### Table of Contents
@@ -31,6 +21,10 @@
 Go to the [Chrome Web Store page for *Markdown Here*](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa) and install normally.
 
 After installing, make sure to reload your webmail or restart Chrome!
+
+[**Get Kali.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)  
+[**Get Ubuntu.**](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)  
+[**Get Windows.**](https://s3.amazonaws.com/markdown-here/markdown-here.safariextz) 
 
 #### VMWare - Not covered for this example
 
