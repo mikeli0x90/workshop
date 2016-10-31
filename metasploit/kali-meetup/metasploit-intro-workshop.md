@@ -16,24 +16,11 @@
 
 
 
-*Markdown Here* is a Google Chrome, Firefox, Safari, Opera, and Thunderbird extension that lets you write email<sup>&dagger;</sup> in Markdown<sup>&Dagger;</sup> and render them before sending. It also supports syntax highlighting (just specify the language in a fenced code block).
-
-Writing email with code in it is pretty tedious. Writing Markdown with code in it is easy. I found myself writing email in Markdown in the Github in-browser editor, then copying the preview into email. This is a pretty absurd workflow, so I decided create a tool to write and render Markdown right in the email.
-
-To discover what can be done with Markdown in *Markdown Here*, check out the [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) and the other [wiki pages](https://github.com/adam-p/markdown-here/wiki).
-
-<sup>&dagger;: And Google Groups posts, and Blogger posts, and Evernote notes, and Wordpress posts! [See more](#compatibility).</sup>  
-<sup>&Dagger;: And TeX mathematical formulae!</sup>
-
-![screenshot of conversion](https://raw.github.com/adam-p/markdown-here/master/store-assets/markdown-here-image1.gimp.png)
-
 ### Table of Contents
-**[Installation Instructions](#installation-instructions)**  
-**[Usage Instructions](#usage-instructions)**  
-**[Troubleshooting](#troubleshooting)**  
-**[Compatibility](#compatibility)**  
-**[Notes and Miscellaneous](#notes-and-miscellaneous)**  
-**[Building the Extension Bundles](#building-the-extension-bundles)**  
+**[Lab Build Up](#installation-instructions)**  
+**[Scanning](#usage-instructions)**  
+**[Linux Exploit](#troubleshooting)**  
+**[Windows Exploit](#compatibility)**  
 **[Next Steps, Credits, Feedback, License](#next-steps)**  
 
 ## Installation Instructions
